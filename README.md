@@ -1,0 +1,1 @@
+# claude-for-non-technicals
